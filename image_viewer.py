@@ -1,3 +1,7 @@
+"""
+Image viewer on Python and Tkinter. 
+All images come from open sources
+"""
 from tkinter import *
 from PIL import ImageTk, Image
 
